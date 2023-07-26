@@ -1,6 +1,6 @@
 package HeasapMakinasi;
 
-public class Hesao {
+public class Hesap {
 
     public static void main(String[] args) {
 
